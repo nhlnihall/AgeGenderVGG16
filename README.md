@@ -18,7 +18,7 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/static/gender.caffemodel
 
 example:  
 
-export LD_LIBRARY_PATH=/home/nihal/caffe/.build_release/lib:$LD_LIBRARY_PATH 
+export LD_LIBRARY_PATH=/home/$USER/caffe/.build_release/lib:$LD_LIBRARY_PATH 
 
 3- make all
 

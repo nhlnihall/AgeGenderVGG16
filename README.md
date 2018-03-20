@@ -14,5 +14,7 @@ example:
 export LD_LIBRARY_PATH=/home/nihal/caffe/.build_release/lib:$LD_LIBRARY_PATH 
 
 3- make all
+
 4- ./example
+
 5- python example.py

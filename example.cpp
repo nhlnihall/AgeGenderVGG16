@@ -156,7 +156,7 @@ max_i = 0;
   }
   else
   {
-    LOG(ERROR) << "max: " << max << " i " << max_i << " Famale";
+    LOG(ERROR) << "max: " << max << " i " << max_i << " Female";
   }
   
 

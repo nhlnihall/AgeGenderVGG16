@@ -7,6 +7,8 @@ import sys
 
 caffe.set_device(0)
 caffe.set_mode_gpu()
+#for CPU
+#caffe.set_mode_cpu()
 
 #caffe_root = './caffe-master/' 
 #sys.path.insert(0, caffe_root + 'python')
